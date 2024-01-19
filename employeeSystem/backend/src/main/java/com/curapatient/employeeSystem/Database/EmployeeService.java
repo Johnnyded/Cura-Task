@@ -35,6 +35,5 @@ public class EmployeeService {
         return employeeRepository.save(employee);
     }
 
-    // Other service methods for handling business logic related to employees
-    // such as find, update, delete, etc., can be added here.
+    // Can add other business logic here for handling the employees table
 }
